@@ -1,0 +1,19 @@
+*{
+	padding: 0;
+    margin: 0;
+    box-sizing: border-box;
+}
+html{
+    font-family: Arial, Helvetica, sans-serif;
+}
+.grid{
+	display: flex;
+	flex-wrap: wrap;
+	padding: 40px;
+}
+
+.ingredient-group{
+	width: 50%;
+	
+	margin-top: 10px;
+}
